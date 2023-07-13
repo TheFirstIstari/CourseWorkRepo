@@ -1,0 +1,15 @@
+C:\Users\eupho\OneDrive\Documents\school\Computing\inheritance\bin\Debug\net6.0\inheritance.exe
+C:\Users\eupho\OneDrive\Documents\school\Computing\inheritance\bin\Debug\net6.0\inheritance.deps.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\inheritance\bin\Debug\net6.0\inheritance.runtimeconfig.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\inheritance\bin\Debug\net6.0\inheritance.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\inheritance\bin\Debug\net6.0\inheritance.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\inheritance\obj\Debug\net6.0\inheritance.csproj.AssemblyReference.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\inheritance\obj\Debug\net6.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eupho\OneDrive\Documents\school\Computing\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\inheritance\obj\Debug\net6.0\inheritance.AssemblyInfo.cs
+C:\Users\eupho\OneDrive\Documents\school\Computing\inheritance\obj\Debug\net6.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\inheritance\obj\Debug\net6.0\inheritance.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\inheritance\obj\Debug\net6.0\refint\inheritance.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\inheritance\obj\Debug\net6.0\inheritance.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\inheritance\obj\Debug\net6.0\inheritance.genruntimeconfig.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\inheritance\obj\Debug\net6.0\ref\inheritance.dll
