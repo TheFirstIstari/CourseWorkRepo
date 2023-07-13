@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Dijkstras shortest path algorithm/1.0.0": {
+        "runtime": {
+          "Dijkstras shortest path algorithm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Dijkstras shortest path algorithm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
