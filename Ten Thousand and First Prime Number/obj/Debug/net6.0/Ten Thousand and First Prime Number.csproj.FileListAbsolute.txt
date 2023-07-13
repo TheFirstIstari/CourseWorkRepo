@@ -1,0 +1,15 @@
+C:\Users\eupho\OneDrive\Documents\school\Computing\Ten Thousand and First Prime Number\bin\Debug\net6.0\Ten Thousand and First Prime Number.exe
+C:\Users\eupho\OneDrive\Documents\school\Computing\Ten Thousand and First Prime Number\bin\Debug\net6.0\Ten Thousand and First Prime Number.deps.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\Ten Thousand and First Prime Number\bin\Debug\net6.0\Ten Thousand and First Prime Number.runtimeconfig.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\Ten Thousand and First Prime Number\bin\Debug\net6.0\Ten Thousand and First Prime Number.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\Ten Thousand and First Prime Number\bin\Debug\net6.0\Ten Thousand and First Prime Number.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\Ten Thousand and First Prime Number\obj\Debug\net6.0\Ten Thousand and First Prime Number.csproj.AssemblyReference.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Ten Thousand and First Prime Number\obj\Debug\net6.0\Ten Thousand and First Prime Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eupho\OneDrive\Documents\school\Computing\Ten Thousand and First Prime Number\obj\Debug\net6.0\Ten Thousand and First Prime Number.AssemblyInfoInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Ten Thousand and First Prime Number\obj\Debug\net6.0\Ten Thousand and First Prime Number.AssemblyInfo.cs
+C:\Users\eupho\OneDrive\Documents\school\Computing\Ten Thousand and First Prime Number\obj\Debug\net6.0\Ten Thousand and First Prime Number.csproj.CoreCompileInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Ten Thousand and First Prime Number\obj\Debug\net6.0\Ten Thousand and First Prime Number.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\Ten Thousand and First Prime Number\obj\Debug\net6.0\refint\Ten Thousand and First Prime Number.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\Ten Thousand and First Prime Number\obj\Debug\net6.0\Ten Thousand and First Prime Number.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\Ten Thousand and First Prime Number\obj\Debug\net6.0\Ten Thousand and First Prime Number.genruntimeconfig.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Ten Thousand and First Prime Number\obj\Debug\net6.0\ref\Ten Thousand and First Prime Number.dll
