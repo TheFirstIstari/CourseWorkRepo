@@ -1,0 +1,15 @@
+C:\Users\eupho\OneDrive\Documents\school\Computing\Warships3\bin\Debug\net6.0\Warships3.exe
+C:\Users\eupho\OneDrive\Documents\school\Computing\Warships3\bin\Debug\net6.0\Warships3.deps.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\Warships3\bin\Debug\net6.0\Warships3.runtimeconfig.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\Warships3\bin\Debug\net6.0\Warships3.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\Warships3\bin\Debug\net6.0\Warships3.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\Warships3\obj\Debug\net6.0\Warships3.csproj.AssemblyReference.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Warships3\obj\Debug\net6.0\Warships3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eupho\OneDrive\Documents\school\Computing\Warships3\obj\Debug\net6.0\Warships3.AssemblyInfoInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Warships3\obj\Debug\net6.0\Warships3.AssemblyInfo.cs
+C:\Users\eupho\OneDrive\Documents\school\Computing\Warships3\obj\Debug\net6.0\Warships3.csproj.CoreCompileInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Warships3\obj\Debug\net6.0\Warships3.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\Warships3\obj\Debug\net6.0\refint\Warships3.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\Warships3\obj\Debug\net6.0\Warships3.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\Warships3\obj\Debug\net6.0\Warships3.genruntimeconfig.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Warships3\obj\Debug\net6.0\ref\Warships3.dll

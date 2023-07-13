@@ -1,0 +1,15 @@
+C:\Users\eupho\OneDrive\Documents\school\Computing\WOOP\bin\Debug\net6.0\WOOP.exe
+C:\Users\eupho\OneDrive\Documents\school\Computing\WOOP\bin\Debug\net6.0\WOOP.deps.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\WOOP\bin\Debug\net6.0\WOOP.runtimeconfig.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\WOOP\bin\Debug\net6.0\WOOP.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\WOOP\bin\Debug\net6.0\WOOP.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\WOOP\obj\Debug\net6.0\WOOP.csproj.AssemblyReference.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\WOOP\obj\Debug\net6.0\WOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eupho\OneDrive\Documents\school\Computing\WOOP\obj\Debug\net6.0\WOOP.AssemblyInfoInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\WOOP\obj\Debug\net6.0\WOOP.AssemblyInfo.cs
+C:\Users\eupho\OneDrive\Documents\school\Computing\WOOP\obj\Debug\net6.0\WOOP.csproj.CoreCompileInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\WOOP\obj\Debug\net6.0\WOOP.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\WOOP\obj\Debug\net6.0\refint\WOOP.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\WOOP\obj\Debug\net6.0\WOOP.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\WOOP\obj\Debug\net6.0\WOOP.genruntimeconfig.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\WOOP\obj\Debug\net6.0\ref\WOOP.dll
