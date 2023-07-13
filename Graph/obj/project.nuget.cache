@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tGG6SXnRc4dTyOyPCC7//gc0PvMCnjj3mPDJAO4F4HVG7KD2MRyOiXEkPriqvLE4LQOSQzpp5A2cEajAgjeNsQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eupho\\OneDrive\\Documents\\school\\Computing\\Graph\\Graph.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eupho\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.19\\microsoft.windowsdesktop.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\eupho\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.19\\microsoft.netcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\eupho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.19\\microsoft.aspnetcore.app.ref.6.0.19.nupkg.sha512",
+    "C:\\Users\\eupho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.19\\microsoft.netcore.app.host.win-x64.6.0.19.nupkg.sha512"
+  ],
+  "logs": []
+}
