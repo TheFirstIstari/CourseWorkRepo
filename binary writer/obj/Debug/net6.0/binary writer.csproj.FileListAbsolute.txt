@@ -1,0 +1,15 @@
+C:\Users\eupho\OneDrive\Documents\school\Computing\binary writer\bin\Debug\net6.0\binary writer.exe
+C:\Users\eupho\OneDrive\Documents\school\Computing\binary writer\bin\Debug\net6.0\binary writer.deps.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\binary writer\bin\Debug\net6.0\binary writer.runtimeconfig.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\binary writer\bin\Debug\net6.0\binary writer.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\binary writer\bin\Debug\net6.0\binary writer.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\binary writer\obj\Debug\net6.0\binary writer.csproj.AssemblyReference.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\binary writer\obj\Debug\net6.0\binary writer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eupho\OneDrive\Documents\school\Computing\binary writer\obj\Debug\net6.0\binary writer.AssemblyInfoInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\binary writer\obj\Debug\net6.0\binary writer.AssemblyInfo.cs
+C:\Users\eupho\OneDrive\Documents\school\Computing\binary writer\obj\Debug\net6.0\binary writer.csproj.CoreCompileInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\binary writer\obj\Debug\net6.0\binary writer.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\binary writer\obj\Debug\net6.0\refint\binary writer.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\binary writer\obj\Debug\net6.0\binary writer.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\binary writer\obj\Debug\net6.0\binary writer.genruntimeconfig.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\binary writer\obj\Debug\net6.0\ref\binary writer.dll

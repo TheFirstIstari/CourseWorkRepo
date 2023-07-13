@@ -1,0 +1,30 @@
+D:\Computing Backup\BinaryTree\bin\Debug\net6.0\BinaryTree.exe
+D:\Computing Backup\BinaryTree\bin\Debug\net6.0\BinaryTree.deps.json
+D:\Computing Backup\BinaryTree\bin\Debug\net6.0\BinaryTree.runtimeconfig.json
+D:\Computing Backup\BinaryTree\bin\Debug\net6.0\BinaryTree.dll
+D:\Computing Backup\BinaryTree\bin\Debug\net6.0\BinaryTree.pdb
+D:\Computing Backup\BinaryTree\obj\Debug\net6.0\BinaryTree.csproj.AssemblyReference.cache
+D:\Computing Backup\BinaryTree\obj\Debug\net6.0\BinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computing Backup\BinaryTree\obj\Debug\net6.0\BinaryTree.AssemblyInfoInputs.cache
+D:\Computing Backup\BinaryTree\obj\Debug\net6.0\BinaryTree.AssemblyInfo.cs
+D:\Computing Backup\BinaryTree\obj\Debug\net6.0\BinaryTree.csproj.CoreCompileInputs.cache
+D:\Computing Backup\BinaryTree\obj\Debug\net6.0\BinaryTree.dll
+D:\Computing Backup\BinaryTree\obj\Debug\net6.0\refint\BinaryTree.dll
+D:\Computing Backup\BinaryTree\obj\Debug\net6.0\BinaryTree.pdb
+D:\Computing Backup\BinaryTree\obj\Debug\net6.0\BinaryTree.genruntimeconfig.cache
+D:\Computing Backup\BinaryTree\obj\Debug\net6.0\ref\BinaryTree.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTree\bin\Debug\net6.0\BinaryTree.exe
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTree\bin\Debug\net6.0\BinaryTree.deps.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTree\bin\Debug\net6.0\BinaryTree.runtimeconfig.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTree\bin\Debug\net6.0\BinaryTree.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTree\bin\Debug\net6.0\BinaryTree.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTree\obj\Debug\net6.0\BinaryTree.csproj.AssemblyReference.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTree\obj\Debug\net6.0\BinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTree\obj\Debug\net6.0\BinaryTree.AssemblyInfoInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTree\obj\Debug\net6.0\BinaryTree.AssemblyInfo.cs
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTree\obj\Debug\net6.0\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTree\obj\Debug\net6.0\BinaryTree.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTree\obj\Debug\net6.0\refint\BinaryTree.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTree\obj\Debug\net6.0\BinaryTree.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTree\obj\Debug\net6.0\BinaryTree.genruntimeconfig.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTree\obj\Debug\net6.0\ref\BinaryTree.dll
