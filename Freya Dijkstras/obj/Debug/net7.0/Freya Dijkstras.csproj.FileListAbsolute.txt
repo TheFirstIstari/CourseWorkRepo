@@ -1,0 +1,15 @@
+C:\Users\eupho\OneDrive\Documents\school\Computing\Freya Dijkstras\bin\Debug\net7.0\Freya Dijkstras.exe
+C:\Users\eupho\OneDrive\Documents\school\Computing\Freya Dijkstras\bin\Debug\net7.0\Freya Dijkstras.deps.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\Freya Dijkstras\bin\Debug\net7.0\Freya Dijkstras.runtimeconfig.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\Freya Dijkstras\bin\Debug\net7.0\Freya Dijkstras.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\Freya Dijkstras\bin\Debug\net7.0\Freya Dijkstras.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\Freya Dijkstras\obj\Debug\net7.0\Freya Dijkstras.csproj.AssemblyReference.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Freya Dijkstras\obj\Debug\net7.0\Freya Dijkstras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eupho\OneDrive\Documents\school\Computing\Freya Dijkstras\obj\Debug\net7.0\Freya Dijkstras.AssemblyInfoInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Freya Dijkstras\obj\Debug\net7.0\Freya Dijkstras.AssemblyInfo.cs
+C:\Users\eupho\OneDrive\Documents\school\Computing\Freya Dijkstras\obj\Debug\net7.0\Freya Dijkstras.csproj.CoreCompileInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Freya Dijkstras\obj\Debug\net7.0\Freya Dijkstras.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\Freya Dijkstras\obj\Debug\net7.0\refint\Freya Dijkstras.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\Freya Dijkstras\obj\Debug\net7.0\Freya Dijkstras.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\Freya Dijkstras\obj\Debug\net7.0\Freya Dijkstras.genruntimeconfig.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Freya Dijkstras\obj\Debug\net7.0\ref\Freya Dijkstras.dll

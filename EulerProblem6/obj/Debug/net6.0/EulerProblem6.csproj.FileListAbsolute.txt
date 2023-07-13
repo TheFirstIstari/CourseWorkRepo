@@ -1,0 +1,15 @@
+C:\Users\eupho\OneDrive\Documents\school\Computing\EulerProblem6\bin\Debug\net6.0\EulerProblem6.exe
+C:\Users\eupho\OneDrive\Documents\school\Computing\EulerProblem6\bin\Debug\net6.0\EulerProblem6.deps.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\EulerProblem6\bin\Debug\net6.0\EulerProblem6.runtimeconfig.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\EulerProblem6\bin\Debug\net6.0\EulerProblem6.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\EulerProblem6\bin\Debug\net6.0\EulerProblem6.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\EulerProblem6\obj\Debug\net6.0\EulerProblem6.csproj.AssemblyReference.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\EulerProblem6\obj\Debug\net6.0\EulerProblem6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eupho\OneDrive\Documents\school\Computing\EulerProblem6\obj\Debug\net6.0\EulerProblem6.AssemblyInfoInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\EulerProblem6\obj\Debug\net6.0\EulerProblem6.AssemblyInfo.cs
+C:\Users\eupho\OneDrive\Documents\school\Computing\EulerProblem6\obj\Debug\net6.0\EulerProblem6.csproj.CoreCompileInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\EulerProblem6\obj\Debug\net6.0\EulerProblem6.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\EulerProblem6\obj\Debug\net6.0\refint\EulerProblem6.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\EulerProblem6\obj\Debug\net6.0\EulerProblem6.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\EulerProblem6\obj\Debug\net6.0\EulerProblem6.genruntimeconfig.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\EulerProblem6\obj\Debug\net6.0\ref\EulerProblem6.dll
