@@ -1,0 +1,15 @@
+C:\Users\eupho\OneDrive\Documents\school\Computing\Run Length Encoding\obj\Debug\net6.0\Run Length Encoding.csproj.AssemblyReference.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Run Length Encoding\obj\Debug\net6.0\Run Length Encoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eupho\OneDrive\Documents\school\Computing\Run Length Encoding\obj\Debug\net6.0\Run Length Encoding.AssemblyInfoInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Run Length Encoding\obj\Debug\net6.0\Run Length Encoding.AssemblyInfo.cs
+C:\Users\eupho\OneDrive\Documents\school\Computing\Run Length Encoding\obj\Debug\net6.0\Run Length Encoding.csproj.CoreCompileInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Run Length Encoding\bin\Debug\net6.0\Run Length Encoding.exe
+C:\Users\eupho\OneDrive\Documents\school\Computing\Run Length Encoding\bin\Debug\net6.0\Run Length Encoding.deps.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\Run Length Encoding\bin\Debug\net6.0\Run Length Encoding.runtimeconfig.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\Run Length Encoding\bin\Debug\net6.0\Run Length Encoding.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\Run Length Encoding\bin\Debug\net6.0\Run Length Encoding.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\Run Length Encoding\obj\Debug\net6.0\Run Length Encoding.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\Run Length Encoding\obj\Debug\net6.0\refint\Run Length Encoding.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\Run Length Encoding\obj\Debug\net6.0\Run Length Encoding.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\Run Length Encoding\obj\Debug\net6.0\Run Length Encoding.genruntimeconfig.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Run Length Encoding\obj\Debug\net6.0\ref\Run Length Encoding.dll
