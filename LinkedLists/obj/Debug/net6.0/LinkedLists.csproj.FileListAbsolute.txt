@@ -1,0 +1,15 @@
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinkedLists\bin\Debug\net6.0\LinkedLists.exe
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinkedLists\bin\Debug\net6.0\LinkedLists.deps.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinkedLists\bin\Debug\net6.0\LinkedLists.runtimeconfig.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinkedLists\bin\Debug\net6.0\LinkedLists.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinkedLists\bin\Debug\net6.0\LinkedLists.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinkedLists\obj\Debug\net6.0\LinkedLists.csproj.AssemblyReference.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinkedLists\obj\Debug\net6.0\LinkedLists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinkedLists\obj\Debug\net6.0\LinkedLists.AssemblyInfoInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinkedLists\obj\Debug\net6.0\LinkedLists.AssemblyInfo.cs
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinkedLists\obj\Debug\net6.0\LinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinkedLists\obj\Debug\net6.0\LinkedLists.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinkedLists\obj\Debug\net6.0\refint\LinkedLists.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinkedLists\obj\Debug\net6.0\LinkedLists.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinkedLists\obj\Debug\net6.0\LinkedLists.genruntimeconfig.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinkedLists\obj\Debug\net6.0\ref\LinkedLists.dll

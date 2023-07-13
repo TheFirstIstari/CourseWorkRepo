@@ -1,0 +1,15 @@
+C:\Users\eupho\OneDrive\Documents\school\Computing\MicrosotfDailyCodingChallenge\bin\Debug\net6.0\MicrosotfDailyCodingChallenge.exe
+C:\Users\eupho\OneDrive\Documents\school\Computing\MicrosotfDailyCodingChallenge\bin\Debug\net6.0\MicrosotfDailyCodingChallenge.deps.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\MicrosotfDailyCodingChallenge\bin\Debug\net6.0\MicrosotfDailyCodingChallenge.runtimeconfig.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\MicrosotfDailyCodingChallenge\bin\Debug\net6.0\MicrosotfDailyCodingChallenge.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\MicrosotfDailyCodingChallenge\bin\Debug\net6.0\MicrosotfDailyCodingChallenge.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\MicrosotfDailyCodingChallenge\obj\Debug\net6.0\MicrosotfDailyCodingChallenge.csproj.AssemblyReference.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\MicrosotfDailyCodingChallenge\obj\Debug\net6.0\MicrosotfDailyCodingChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eupho\OneDrive\Documents\school\Computing\MicrosotfDailyCodingChallenge\obj\Debug\net6.0\MicrosotfDailyCodingChallenge.AssemblyInfoInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\MicrosotfDailyCodingChallenge\obj\Debug\net6.0\MicrosotfDailyCodingChallenge.AssemblyInfo.cs
+C:\Users\eupho\OneDrive\Documents\school\Computing\MicrosotfDailyCodingChallenge\obj\Debug\net6.0\MicrosotfDailyCodingChallenge.csproj.CoreCompileInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\MicrosotfDailyCodingChallenge\obj\Debug\net6.0\MicrosotfDailyCodingChallenge.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\MicrosotfDailyCodingChallenge\obj\Debug\net6.0\refint\MicrosotfDailyCodingChallenge.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\MicrosotfDailyCodingChallenge\obj\Debug\net6.0\MicrosotfDailyCodingChallenge.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\MicrosotfDailyCodingChallenge\obj\Debug\net6.0\MicrosotfDailyCodingChallenge.genruntimeconfig.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\MicrosotfDailyCodingChallenge\obj\Debug\net6.0\ref\MicrosotfDailyCodingChallenge.dll
