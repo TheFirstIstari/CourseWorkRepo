@@ -1,0 +1,15 @@
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinearandBinarysearches\bin\Debug\net6.0\LinearandBinarysearches.exe
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinearandBinarysearches\bin\Debug\net6.0\LinearandBinarysearches.deps.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinearandBinarysearches\bin\Debug\net6.0\LinearandBinarysearches.runtimeconfig.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinearandBinarysearches\bin\Debug\net6.0\LinearandBinarysearches.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinearandBinarysearches\bin\Debug\net6.0\LinearandBinarysearches.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinearandBinarysearches\obj\Debug\net6.0\LinearandBinarysearches.csproj.AssemblyReference.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinearandBinarysearches\obj\Debug\net6.0\LinearandBinarysearches.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinearandBinarysearches\obj\Debug\net6.0\LinearandBinarysearches.AssemblyInfoInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinearandBinarysearches\obj\Debug\net6.0\LinearandBinarysearches.AssemblyInfo.cs
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinearandBinarysearches\obj\Debug\net6.0\LinearandBinarysearches.csproj.CoreCompileInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinearandBinarysearches\obj\Debug\net6.0\LinearandBinarysearches.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinearandBinarysearches\obj\Debug\net6.0\refint\LinearandBinarysearches.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinearandBinarysearches\obj\Debug\net6.0\LinearandBinarysearches.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinearandBinarysearches\obj\Debug\net6.0\LinearandBinarysearches.genruntimeconfig.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\LinearandBinarysearches\obj\Debug\net6.0\ref\LinearandBinarysearches.dll

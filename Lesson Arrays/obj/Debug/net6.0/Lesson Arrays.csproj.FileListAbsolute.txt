@@ -1,0 +1,15 @@
+C:\Users\eupho\OneDrive\Documents\school\Computing\Lesson Arrays\bin\Debug\net6.0\Lesson Arrays.exe
+C:\Users\eupho\OneDrive\Documents\school\Computing\Lesson Arrays\bin\Debug\net6.0\Lesson Arrays.deps.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\Lesson Arrays\bin\Debug\net6.0\Lesson Arrays.runtimeconfig.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\Lesson Arrays\bin\Debug\net6.0\Lesson Arrays.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\Lesson Arrays\bin\Debug\net6.0\Lesson Arrays.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\Lesson Arrays\obj\Debug\net6.0\Lesson Arrays.csproj.AssemblyReference.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Lesson Arrays\obj\Debug\net6.0\Lesson Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eupho\OneDrive\Documents\school\Computing\Lesson Arrays\obj\Debug\net6.0\Lesson Arrays.AssemblyInfoInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Lesson Arrays\obj\Debug\net6.0\Lesson Arrays.AssemblyInfo.cs
+C:\Users\eupho\OneDrive\Documents\school\Computing\Lesson Arrays\obj\Debug\net6.0\Lesson Arrays.csproj.CoreCompileInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Lesson Arrays\obj\Debug\net6.0\Lesson Arrays.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\Lesson Arrays\obj\Debug\net6.0\refint\Lesson Arrays.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\Lesson Arrays\obj\Debug\net6.0\Lesson Arrays.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\Lesson Arrays\obj\Debug\net6.0\Lesson Arrays.genruntimeconfig.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Lesson Arrays\obj\Debug\net6.0\ref\Lesson Arrays.dll
