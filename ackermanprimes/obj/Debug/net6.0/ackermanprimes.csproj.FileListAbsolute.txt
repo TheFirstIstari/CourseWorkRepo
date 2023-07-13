@@ -1,0 +1,15 @@
+C:\Users\eupho\OneDrive\Documents\school\Computing\ackermanprimes\bin\Debug\net6.0\ackermanprimes.exe
+C:\Users\eupho\OneDrive\Documents\school\Computing\ackermanprimes\bin\Debug\net6.0\ackermanprimes.deps.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\ackermanprimes\bin\Debug\net6.0\ackermanprimes.runtimeconfig.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\ackermanprimes\bin\Debug\net6.0\ackermanprimes.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\ackermanprimes\bin\Debug\net6.0\ackermanprimes.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\ackermanprimes\obj\Debug\net6.0\ackermanprimes.csproj.AssemblyReference.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\ackermanprimes\obj\Debug\net6.0\ackermanprimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eupho\OneDrive\Documents\school\Computing\ackermanprimes\obj\Debug\net6.0\ackermanprimes.AssemblyInfoInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\ackermanprimes\obj\Debug\net6.0\ackermanprimes.AssemblyInfo.cs
+C:\Users\eupho\OneDrive\Documents\school\Computing\ackermanprimes\obj\Debug\net6.0\ackermanprimes.csproj.CoreCompileInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\ackermanprimes\obj\Debug\net6.0\ackermanprimes.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\ackermanprimes\obj\Debug\net6.0\refint\ackermanprimes.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\ackermanprimes\obj\Debug\net6.0\ackermanprimes.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\ackermanprimes\obj\Debug\net6.0\ackermanprimes.genruntimeconfig.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\ackermanprimes\obj\Debug\net6.0\ref\ackermanprimes.dll
