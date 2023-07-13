@@ -1,0 +1,15 @@
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTreeButWithStackThisTime\bin\Debug\net6.0\BinaryTreeButWithStackThisTime.exe
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTreeButWithStackThisTime\bin\Debug\net6.0\BinaryTreeButWithStackThisTime.deps.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTreeButWithStackThisTime\bin\Debug\net6.0\BinaryTreeButWithStackThisTime.runtimeconfig.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTreeButWithStackThisTime\bin\Debug\net6.0\BinaryTreeButWithStackThisTime.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTreeButWithStackThisTime\bin\Debug\net6.0\BinaryTreeButWithStackThisTime.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTreeButWithStackThisTime\obj\Debug\net6.0\BinaryTreeButWithStackThisTime.csproj.AssemblyReference.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTreeButWithStackThisTime\obj\Debug\net6.0\BinaryTreeButWithStackThisTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTreeButWithStackThisTime\obj\Debug\net6.0\BinaryTreeButWithStackThisTime.AssemblyInfoInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTreeButWithStackThisTime\obj\Debug\net6.0\BinaryTreeButWithStackThisTime.AssemblyInfo.cs
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTreeButWithStackThisTime\obj\Debug\net6.0\BinaryTreeButWithStackThisTime.csproj.CoreCompileInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTreeButWithStackThisTime\obj\Debug\net6.0\BinaryTreeButWithStackThisTime.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTreeButWithStackThisTime\obj\Debug\net6.0\refint\BinaryTreeButWithStackThisTime.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTreeButWithStackThisTime\obj\Debug\net6.0\BinaryTreeButWithStackThisTime.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTreeButWithStackThisTime\obj\Debug\net6.0\BinaryTreeButWithStackThisTime.genruntimeconfig.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\BinaryTreeButWithStackThisTime\obj\Debug\net6.0\ref\BinaryTreeButWithStackThisTime.dll
