@@ -1,0 +1,15 @@
+C:\Users\eupho\OneDrive\Documents\school\Computing\Multiplearraes\obj\Debug\net6.0\Multiplearraes.csproj.AssemblyReference.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Multiplearraes\obj\Debug\net6.0\Multiplearraes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eupho\OneDrive\Documents\school\Computing\Multiplearraes\obj\Debug\net6.0\Multiplearraes.AssemblyInfoInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Multiplearraes\obj\Debug\net6.0\Multiplearraes.AssemblyInfo.cs
+C:\Users\eupho\OneDrive\Documents\school\Computing\Multiplearraes\obj\Debug\net6.0\Multiplearraes.csproj.CoreCompileInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Multiplearraes\bin\Debug\net6.0\Multiplearraes.exe
+C:\Users\eupho\OneDrive\Documents\school\Computing\Multiplearraes\bin\Debug\net6.0\Multiplearraes.deps.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\Multiplearraes\bin\Debug\net6.0\Multiplearraes.runtimeconfig.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\Multiplearraes\bin\Debug\net6.0\Multiplearraes.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\Multiplearraes\bin\Debug\net6.0\Multiplearraes.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\Multiplearraes\obj\Debug\net6.0\Multiplearraes.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\Multiplearraes\obj\Debug\net6.0\refint\Multiplearraes.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\Multiplearraes\obj\Debug\net6.0\Multiplearraes.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\Multiplearraes\obj\Debug\net6.0\Multiplearraes.genruntimeconfig.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\Multiplearraes\obj\Debug\net6.0\ref\Multiplearraes.dll

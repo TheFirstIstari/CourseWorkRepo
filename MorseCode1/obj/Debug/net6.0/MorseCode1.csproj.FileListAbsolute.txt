@@ -1,0 +1,15 @@
+C:\Users\eupho\OneDrive\Documents\school\Computing\MorseCode1\bin\Debug\net6.0\MorseCode1.exe
+C:\Users\eupho\OneDrive\Documents\school\Computing\MorseCode1\bin\Debug\net6.0\MorseCode1.deps.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\MorseCode1\bin\Debug\net6.0\MorseCode1.runtimeconfig.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\MorseCode1\bin\Debug\net6.0\MorseCode1.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\MorseCode1\bin\Debug\net6.0\MorseCode1.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\MorseCode1\obj\Debug\net6.0\MorseCode1.csproj.AssemblyReference.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\MorseCode1\obj\Debug\net6.0\MorseCode1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eupho\OneDrive\Documents\school\Computing\MorseCode1\obj\Debug\net6.0\MorseCode1.AssemblyInfoInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\MorseCode1\obj\Debug\net6.0\MorseCode1.AssemblyInfo.cs
+C:\Users\eupho\OneDrive\Documents\school\Computing\MorseCode1\obj\Debug\net6.0\MorseCode1.csproj.CoreCompileInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\MorseCode1\obj\Debug\net6.0\MorseCode1.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\MorseCode1\obj\Debug\net6.0\refint\MorseCode1.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\MorseCode1\obj\Debug\net6.0\MorseCode1.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\MorseCode1\obj\Debug\net6.0\MorseCode1.genruntimeconfig.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\MorseCode1\obj\Debug\net6.0\ref\MorseCode1.dll
