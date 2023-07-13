@@ -1,0 +1,15 @@
+C:\Users\eupho\OneDrive\Documents\school\Computing\CircularQueue\bin\Debug\net6.0\CircularQueue.exe
+C:\Users\eupho\OneDrive\Documents\school\Computing\CircularQueue\bin\Debug\net6.0\CircularQueue.deps.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\CircularQueue\bin\Debug\net6.0\CircularQueue.runtimeconfig.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\CircularQueue\bin\Debug\net6.0\CircularQueue.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\CircularQueue\bin\Debug\net6.0\CircularQueue.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\CircularQueue\obj\Debug\net6.0\CircularQueue.csproj.AssemblyReference.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\CircularQueue\obj\Debug\net6.0\CircularQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eupho\OneDrive\Documents\school\Computing\CircularQueue\obj\Debug\net6.0\CircularQueue.AssemblyInfoInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\CircularQueue\obj\Debug\net6.0\CircularQueue.AssemblyInfo.cs
+C:\Users\eupho\OneDrive\Documents\school\Computing\CircularQueue\obj\Debug\net6.0\CircularQueue.csproj.CoreCompileInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\CircularQueue\obj\Debug\net6.0\CircularQueue.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\CircularQueue\obj\Debug\net6.0\refint\CircularQueue.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\CircularQueue\obj\Debug\net6.0\CircularQueue.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\CircularQueue\obj\Debug\net6.0\CircularQueue.genruntimeconfig.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\CircularQueue\obj\Debug\net6.0\ref\CircularQueue.dll

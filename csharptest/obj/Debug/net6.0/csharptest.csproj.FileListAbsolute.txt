@@ -1,0 +1,15 @@
+C:\Users\eupho\OneDrive\Documents\school\Computing\csharptest\obj\Debug\net6.0\csharptest.csproj.AssemblyReference.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\csharptest\obj\Debug\net6.0\csharptest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eupho\OneDrive\Documents\school\Computing\csharptest\obj\Debug\net6.0\csharptest.AssemblyInfoInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\csharptest\obj\Debug\net6.0\csharptest.AssemblyInfo.cs
+C:\Users\eupho\OneDrive\Documents\school\Computing\csharptest\obj\Debug\net6.0\csharptest.csproj.CoreCompileInputs.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\csharptest\bin\Debug\net6.0\csharptest.exe
+C:\Users\eupho\OneDrive\Documents\school\Computing\csharptest\bin\Debug\net6.0\csharptest.deps.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\csharptest\bin\Debug\net6.0\csharptest.runtimeconfig.json
+C:\Users\eupho\OneDrive\Documents\school\Computing\csharptest\bin\Debug\net6.0\csharptest.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\csharptest\bin\Debug\net6.0\csharptest.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\csharptest\obj\Debug\net6.0\csharptest.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\csharptest\obj\Debug\net6.0\refint\csharptest.dll
+C:\Users\eupho\OneDrive\Documents\school\Computing\csharptest\obj\Debug\net6.0\csharptest.pdb
+C:\Users\eupho\OneDrive\Documents\school\Computing\csharptest\obj\Debug\net6.0\csharptest.genruntimeconfig.cache
+C:\Users\eupho\OneDrive\Documents\school\Computing\csharptest\obj\Debug\net6.0\ref\csharptest.dll
